@@ -14,6 +14,8 @@ comments: true
 cover: "https://images.unsplash.com/photo-1551818255-e6e10975bc17?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
 ---
 
+{{< figure src="cover" alt="Why your brain's decision to reorganize your entire music library instead of doing actual work might be genius" >}}
+
 <span class="letterine"><i>R</i>ight now, as you read this</span>, there's probably something else you should be doing. A deadline lurking in your inbox, a project gathering digital dust, or perhaps that phone call you've been "meaning to make" for three weeks.
 
 Welcome to the club. Population: everyone.

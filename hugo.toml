@@ -126,7 +126,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Site description
     description = "You've just landed in a quirky little corner of cyberspace where sense and nonsense sip coffee together. Every week here, you'll discover a concoction of bizarre topics filled with chaos yet surprisingly rich in information."
     ## Copyright notice on colophon
-    copyright = "Copyright 2025 &copy; Author"
+    copyright = "Copyright 2025 &copy; Dibakar"
     ## Hide "powered by hugo" on colophon
     HideHugoCredit = true
     ## Enable extended metadata (social cards)

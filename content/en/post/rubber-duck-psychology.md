@@ -14,6 +14,8 @@ comments: true
 cover: "https://images.unsplash.com/photo-1563089145-599997674d42?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
 ---
 
+{{< figure src="cover" alt="Why talking to a yellow plastic duck might be the most logical thing you'll do today" >}}
+
 <span class="letterine"><i>I</i>magine explaining your life problems to a rubber duck.</span> Sounds absurd? Welcome to one of the most effective problem-solving techniques known to programmers—and arguably, humanity.
 
 {{< marginpar >}}
