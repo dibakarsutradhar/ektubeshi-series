@@ -2,7 +2,7 @@
 title: "About Ektubeshi"
 description: "Learn about this quirky corner of cyberspace where sense and nonsense sip coffee together"
 translationKey: "about"
-cover: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&h=600&fit=crop'
+cover: '/img/logo.png'
 alt: 'Coffee beans and vintage typewriter representing the blend of traditional and modern at Ektubeshi'
 ---
 

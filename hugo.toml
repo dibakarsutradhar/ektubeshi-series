@@ -134,7 +134,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Enable coffee metric
     coffeeStat = false
     ## Default social card image, recommended resolution: 1200 x 630px
-    # images = "example.com/img/social-share.jpg" 
+    images = ["/img/banner.png"] 
 
 
     ## Author information
@@ -181,9 +181,9 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
     ## Logo configuration
     [params.logo]
         ## Light mode logo mark
-        logoMark = 'https://example.com/logoMark.svg'
+        logoMark = '/img/logo.png'
         ## Dark mode logo mark
-        logoMarkDark = 'https://example.com/logoMarkDark.svg'
+        logoMarkDark = '/img/logo.png'
         ## Enable logo type
         logoType = true
 
@@ -216,7 +216,7 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
         ## Enable twitter and opengraph social cards (same as .params.extMeta)
         enable = true
         ## Default social card image, same as .Params.images
-        # images = "img/social-share.jpg" 
+        images = ["/img/banner.png"] 
         ## Enable Twitter cards
         # twitter = true
         ## Twitter creator handle
@@ -248,24 +248,24 @@ ignoreFiles = [ '\.redacted', '\.old','\.bak', '\.tmp', '\.swp', '\.DS_Store']
 [[menu.main]]
     identifier = "about"
     name = "About"
-    pageRef = "/about"
+    url = "/en/about"
     pre = "clubhouse"
 
     [[menu.main]]
         identifier = "about-author"
         name = "Author"
-        pageRef = "/about/author"
+        url = "/en/author/dibakar"
         parent = "about"
 
 ## Bengali menu
 [[languages.bn.menu.main]]
     identifier = "about"
     name = "সম্পর্কে"
-    pageRef = "/about"
+    url = "/bn/about"
     pre = "clubhouse"
 
     [[languages.bn.menu.main]]
         identifier = "about-author"
         name = "লেখক"
-        pageRef = "/about/author"
+        url = "/bn/author/dibakar"
         parent = "about"

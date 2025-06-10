@@ -1,0 +1,252 @@
+# Ektubeshi Casual English Translations
+# This file overrides the default theme translations.
+
+[404PageNotFound]
+    other = "Oops! This page is lost in the cosmos."
+[404Alert]
+    other = "Redirecting you to a cozier corner of cyberspace..."
+[404ReturnHome]
+    other = "Beam me back to the mothership (homepage)"
+[accessibility]
+    other = "Accessibility Tools"
+[accessTime]
+    other = "You landed here on"
+[allPosts]
+    other = "All Posts"
+[appearance]
+    other = "Appearance"
+[articles]
+    one = "Article"
+    other = "Articles"
+[author]
+    one = "Author"
+    other = "Authors"
+[back]
+    other = "Let's Go Back"
+[baselineStretch]
+    other = "Baseline Stretch"
+[bionRead]
+    other = "Bionic Reading Mode"
+[breadcrumb]
+    other = "Breadcrumb"
+[buildTime]
+    other = "This page was freshly brewed on"
+[bypass]
+    other = "Bypass"
+[categories]
+    one = "Category"
+    other = "Categories"
+[close]
+    other = "Close"
+[coffeeStat]
+    other = "Coffee Stats"
+[coffeeCount]
+    other = "This website was fueled by at least "
+[coffeeCountPost]
+    other = "cups of coffee."
+[colophon]
+    other = "Colophon"
+[colorPalette]
+    other = "Color Palette"
+[colorSettings]
+    other = "Color Settings"
+[comments]
+    other = "Join the Chaos (Comments)"
+[contrast]
+    other = "Contrast"
+[contrib]
+    other = "Contribute to the Chaos"
+[contribAskReader]
+other = "Did this article fuel your brain?"
+[contribAskReaderResponse]
+    other = "Awesome! Glad to hear it."
+[contribAskReaderToContribute]
+    one = "You can also fuel my work with these contributions:"
+    other = "You can also fuel our work with these contributions:"
+[contribCoffeeStat]
+    other = "Did you know that about"
+[contribCoffeeStatPost]
+    one =  "cup of coffee helped me write this article?"
+    other = "cups of coffee helped us write this article?"
+[copy]
+    other = "Copy Link"
+[copying]
+    other = "Copying..."
+[ctaComments]
+    other = "Join the discussion & share your thoughts!"
+[cup]
+    one = "cup of coffee"
+    other = "cups of coffee"
+[currentLang]
+    other = "Current Language:"
+[dark]
+    other = "Dark"
+[darkMode]
+    other = "Dark Mode"
+[date_long]
+    other = "January 2, 2006"
+[defaultColor]
+    other = "Default"
+[defaultContrast]
+    other = "Default"
+[deuteranopia]
+    other = "Deuteranopia"
+[discover]
+    other = "Discover More Chaos"
+[editedBy]
+    other = "Edited By"
+[email]
+    other = "Email"
+[featuredImg]
+    other = "Cover Image"
+[fediverseBluesky]
+    other = "Reply with Bluesky"
+[fediverseErr]
+    other = "Error loading comments"
+[fediverseIsLoading]
+    other = "Loading comments from the Fediverse"
+[fediverseReplies]
+    one = "Reply"
+    other = "Replies"
+[fediverseReblogs]
+    one = "Reblog"
+    other = "Reblogs"
+[fediverseFavourites]
+    one = "Favorite"
+    other = "Favorites"
+[focusMode]
+    other = "Focus Mode"
+[followRSS]
+    other = "Follow with RSS"
+[fontSize]
+    other = "Font Size"
+[home]
+    other = "Home"
+[in]
+    other = "in"
+[inNewTab]
+    other = "opens in new tab"
+[keepInTouch]
+    other = "Connect with the Chaos!"
+[lessContrast]
+    other = "Low"
+[light]
+    other = "Light"
+[main]
+    other = "Main Menu"
+[marginpar]
+    other = "Sidenotes & Tangents"
+[menuControls]
+    other = "Accessibility Controls"
+[modified]
+    other = "Modified"
+[monochrome]
+    other = "Monochrome"
+[more]
+    other = "More"
+[moreContrast]
+    other = "High"
+[nav]
+    other = "Navigation"
+[networkGraph]
+    other = "Content Network Graph"
+[next]
+    other = "Next"
+[noArticle]
+    other = "No articles here... yet."
+[noArticlePost]
+    other = "Looks like the author's coffee pot is empty. We're brewing a fresh batch of content, check back soon!"
+[noComment]
+    other = "No comments yet. Be the first to break the silence!"
+[noGiscus]
+    other = "To see the comments, please enable JavaScript and Local Storage for Giscus."
+[noScript]
+    other = "Uh-oh... JavaScript is disabled!"
+[noLocalStorage]
+    other = "LocalStorage isn't available in your browser, so settings can't be saved."
+[note]
+    other = "Note"
+[on]
+    other = "On"
+[OpenDyslexic]
+    other = "Use OpenDyslexic Font"
+[optimizeSR]
+    other = "Screen Reader Optimization"
+[optimizeSRDesc]
+    other = "Optimize display and resources for screen reader users who navigate with a pointer device."
+[pages]
+    one = "Page"
+    other = "Pages"
+[pagination]
+    other = "Pagination"
+[posts]
+    one = "Post"
+    other = "Posts"
+[postsBy]
+    other = "Post by"
+[postsOn]
+    other = "Posts on"
+[poweredBy]
+    other = "Powered by"
+[prev]
+    other = "Previous"
+[print]
+    other = "Print"
+[protanopia]
+    other = "Protanopia"
+[published]
+    other = "Published"
+[readingTime]
+    other = "min read"
+[recent]
+    other = "Recent Posts"
+[redactionHistory]
+    other = "Redaction History"
+[redactionNotes]
+    other = "Some information might change over time; we keep redactions up to date."
+[related]
+    other = "You Might Also Like..."
+[reset]
+    other = "Reset"
+[reviewedBy]
+    other = "Reviewed By"
+[save]
+    other = "Save"
+[search]
+    other = "Search for Chaos"
+[seeAll]
+    other = "See all"
+[seeMore]
+    other = "Explore More Topics"
+[section]
+    other = "Section"
+[selectLang]
+    other = "Select Language"
+[series]
+    one = "Series"
+    other = "Series"
+[share]
+    other = "Share"
+[shareOn]
+    other = "Share on"
+[slide]
+    one = "slide"
+    other = "slides"
+[stage]
+    one = "Stage"
+    other = "Stages"
+[switchLangTo]
+    other = "Switch to"
+[TableOfContents]
+    other = "In This Article"
+[tags]
+    one = "Tag"
+    other = "Tags"
+[toContent]
+    other = "Skip to Main Content"
+[toTop]
+    other = "Back to Top"
+[top-nav]
+    other = "Top"
+[tritanopia]
+    other = "Tritanopia" 

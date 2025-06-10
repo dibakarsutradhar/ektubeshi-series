@@ -1,49 +1,49 @@
-# Please feel free to contribute to additional translation.
-# Copy this file and rename it to your language code.
-# Then translate the values.
+# একতুবেশী ব্লগের জন্য মজাদার বাংলা অনুবাদ
+# এই ফাইলটি থিমের ডিফল্ট অনুবাদ ওভাররাইড করে।
+
 [404PageNotFound]
-    other = "উপস, পেইজটি পাওয়া যায় নি"
+    other = "এই পাতাটি মহাবিশ্বের বিশৃঙ্খলায় হারিয়ে গেছে।"
 [404Alert]
-    other = "এই পেইজটিকে Redirected করা হয়েছে"
+    other = "আপনাকে সাইবারস্পেসের একটি নিরাপদ কোণায় পাঠানো হচ্ছে..."
 [404ReturnHome]
-    other = "হোমপেজে ফিরে যান"
+    other = "চলুন, মূল আস্তানায় ফেরা যাক"
 [accessibility]
-    other = "সহায়তা"
+    other = "অ্যাক্সেসিবিলিটি টুলস"
 [accessTime]
-    other = "এই পেইজটি এক্সেস করা হয়েছে"
+    other = "আপনি এখানে এসে পড়েছেন"
 [allPosts]
     other = "সব পোস্ট"
 [appearance]
-    other = "দৃষ্টি"
+    other = "সাজসজ্জা"
 [articles]
-    one = "পোস্ট"
-    other = "পোস্ট"
+    one = "লেখা"
+    other = "লেখাসমূহ"
 [author]
     one = "লেখক"
     other = "লেখক"
 [back]
-    other = "ফিরে যান"
+    other = "ফিরে চলুন"
 [baselineStretch]
     other = "লাইন স্ট্রেচ"
 [bionRead]
-    other = "বিন রিড মোড"
+    other = "বায়োনিক রিডিং মোড"
 [breadcrumb]
-    other = "ব্রেডক্রাম"
+    other = "ব্রেডক্রাম্ব"
 [buildTime]
-    other = "এই পেইজটি তৈরি করা হয়েছে"
+    other = "এই পাতাটি এইমাত্র তাজা ব্রু করা হয়েছে"
 [bypass]
     other = "বাইপাস"
 [categories]
     one = "ক্যাটাগরি"
     other = "ক্যাটাগরি"
 [close]
-    other = "বন্ধ"
+    other = "বন্ধ করুন"
 [coffeeStat]
-    other = "কফি স্ট্যাট"
+    other = "কফি পরিসংখ্যান"
 [coffeeCount]
-    other = "এই ওয়েবসাইটটি তৈরি করা হয়েছে"
+    other = "এই ওয়েবসাইটটি বানাতে খরচ হয়েছে অন্তত"
 [coffeeCountPost]
-    other = "যদি না হয় তবে আরও বেশি।"
+    other = "কাপ কফি, বা তারও বেশি।"
 [colophon]
     other = "কলফোন"
 [colorPalette]
@@ -51,34 +51,34 @@
 [colorSettings]
     other = "রঙের সেটিংস"
 [comments]
-    other = "আলোচনা"
+    other = "মন্তব্যের বিশৃঙ্খলা"
 [contrast]
     other = "কন্ট্রাস্ট"
 [contrib]
-    other = "অবদান"
+    other = "অবদান রাখুন"
 [contribAskReader]
-    other = "এই পোস্টটি কি আপনার পছন্দ হয়েছে?"
+    other = "লেখাটি কি আপনার মগজে জ্বালানি জুগিয়েছে?"
 [contribAskReaderResponse]
-    other = "অসাধারণ!"
+    other = "অসাধারণ! জেনে ভালো লাগলো।"
 [contribAskReaderToContribute]
-    one = "You can also support me by making the following contributions:"
-    other = "You can also support us by making the following contributions:"
+    one = "আপনিও আমার এই কাজে জ্বালানি যোগাতে পারেন:"
+    other = "আপনারাও আমাদের এই কাজে জ্বালানি যোগাতে পারেন:"
 [contribCoffeeStat]
-    other = "আপনি কি জানেন যে"
+    other = "জানেন কি,"
 [contribCoffeeStatPost]
-    one =  "helped me write this article?"
-    other = "helped us write this article?"
+    one =  "কাপ কফি আমাকে এই লেখাটি লিখতে সাহায্য করেছে?"
+    other = "কাপ কফি আমাদের এই লেখাটি লিখতে সাহায্য করেছে?"
 [copy]
-    other = "URL কপি করুন"
+    other = "লিঙ্ক কপি করুন"
 [copying]
     other = "কপি হচ্ছে..."
 [ctaComments]
-    other = "আলোচনায় যোগ করুন"
+    other = "বিশৃঙ্খল আলোচনায় যোগ দিন!"
 [cup]
-    one = "কফি কাপ"
-    other = "কফি কাপ"
+    one = "কাপ কফি"
+    other = "কাপ কফি"
 [currentLang]
-    other = "বর্তমান ভাষা হল"
+    other = "বর্তমান ভাষা"
 [dark]
     other = "ডার্ক"
 [darkMode]
@@ -90,80 +90,80 @@
 [defaultContrast]
     other = "ডিফল্ট"
 [deuteranopia]
-    other = "ডিউটারানোপিয়া"
+    other = "ডিউটেরানোপিয়া (বর্ণান্ধতা)"
 [discover]
-    other = "বিষয় খুঁজুন"
+    other = "আরও বিশৃঙ্খলা খুঁজুন"
 [editedBy]
-    other = "সম্পাদিত হয়েছে"
+    other = "সম্পাদনা করেছেন"
 [email]
     other = "ইমেইল"
 [featuredImg]
-    other = "বিশেষ ছবি"
+    other = "প্রচ্ছদ ছবি"
 [fediverseBluesky]
-    other = "Reply with bluesky"
+    other = "ব্লুস্কাই দিয়ে উত্তর দিন"
 [fediverseErr]
-    other = "কমেন্ট লোড করতে সমস্যা হচ্ছে"
+    other = "মন্তব্য লোড করা যাচ্ছে না"
 [fediverseIsLoading]
-    other = "ফেডিভার্সে কমেন্ট লোড করতে সমস্যা হচ্ছে"
+    other = "ফেডিভার্স থেকে মন্তব্য লোড হচ্ছে..."
 [fediverseReplies]
-    one = "রিপ্লাই"
-    other = "রিপ্লাইস"
+    one = "উত্তর"
+    other = "উত্তর"
 [fediverseReblogs]
-    one = "রিবলগ"
-    other = "রিবলগস"
+    one = "রিব্লগ"
+    other = "রিব্লগ"
 [fediverseFavourites]
-    one = "ফেবারিট"
-    other = "ফেবারিটস"
+    one = "পছন্দ"
+    other = "পছন্দ"
 [focusMode]
     other = "ফোকাস মোড"
 [followRSS]
-    other = "RSS অনুসরণ করুন"
+    other = "RSS দিয়ে অনুসরণ করুন"
 [fontSize]
-    other = "ফন্ট সাইজ"
+    other = "ফন্টের আকার"
 [home]
     other = "হোম"
 [in]
     other = "এর মধ্যে"
 [inNewTab]
-    other = "নতুন ট্যাবে"
+    other = "নতুন ট্যাবে খুলুন"
 [keepInTouch]
-    other = "আমার সাথে যোগাযোগ রাখুন!"
+    other = "বিশৃঙ্খলায় যোগাযোগ রাখুন!"
 [lessContrast]
-    other = "লো"
+    other = "কম"
 [light]
     other = "লাইট"
 [main]
-    other = "মেইন মেনু"
+    other = "প্রধান মেনু"
 [marginpar]
-    other = "অতিরিক্ত নোট"
+    other = "পার্শ্বটীকা ও আষাঢ়ে গল্প"
 [menuControls]
-    other = "সহায়তা মেনু কন্ট্রোলস"
+    other = "মেনু কন্ট্রোল"
 [modified]
-    other = "সম্পাদিত হয়েছে"
+    other = "পরিবর্তিত"
 [monochrome]
     other = "মনোক্রোম"
 [more]
-    other = "আরও মেনু"
+    other = "আরও"
 [moreContrast]
-    other = "হাই"
+    other = "বেশি"
 [nav]
     other = "নেভিগেশন"
 [networkGraph]
-    other = "কন্টেন্ট নেটওয়ার্ক গ্রাফ"
+    other = "নেটওয়ার্ক গ্রাফ"
 [next]
     other = "পরবর্তী"
 [noArticle]
-    other = "কোনো পোস্ট দেখানো হচ্ছে না।"
+    other = "এখানে এখনো কোনো পোস্ট নেই।"
 [noArticlePost]
-    other = "লেখকের কফি শেষ হয়ে গেছে... ধৈর্য ধরুন, আরেকটা কফি ব্রু করে নিচ্ছি"
+    other = "মনে হচ্ছে লেখকের কফির মগ খালি... নতুন কফি বানাচ্ছি, একটু অপেক্ষা করুন!"
 [noComment]
-    other = "কোনো কমেন্ট নাই!"
+    other = "এখনও কোনো মন্তব্য নেই। নীরবতা ভেঙে আপনিই শুরু করুন!"
 [noGiscus]
-    other = "Giscus এর জন্য জাভাস্ক্রিপ্ট এবং লোকাল স্টোরেজ সক্ষম করতে হবে।"
+    other = "Giscus ব্যবহার করার জন্য জাভাস্ক্রিপ্ট এবং লোকাল স্টোরেজ চালু করুন।"
 [noScript]
-    other = "ওহো... জাভাস্ক্রিপ্ট নিষ্ক্রিয় করা!"
+    other = "ওহ! আপনার ব্রাউজারে জাভাস্ক্রিপ্ট নিষ্ক্রিয় করা।"
 [noLocalStorage]
-    other = "আপনার ব্রাউজারে লোকাল স্টোরেজ নাই। সেটিংস সংরক্ষণ করা যাবে না।"
+    other = "আপনার ব্রাউজারে লোকাল স্টোরেজ নেই। সেটিংস সংরক্ষণ করা যাবে না।"
 [note]
     other = "নোট"
 [on]
@@ -171,77 +171,78 @@
 [OpenDyslexic]
     other = "OpenDyslexic ফন্ট ব্যবহার করুন"
 [pages]
-    one = "পেইজ"
-    other = "পেইজ গুলো"
+    one = "পাতা"
+    other = "পাতা"
 [pagination]
-    other = "পেজেশন"
+    other = "পৃষ্ঠা নম্বর"
 [posts]
     one = "পোস্ট"
-    other = "পোস্টগুলো"
+    other = "পোস্ট"
 [postsBy]
-    other = "পোস্ট করেছে"
+    other = "পোস্ট করেছেন"
 [postsOn]
-    other = "Posts on"
+    other = "-এর ওপর লেখা পোস্ট"
 [poweredBy]
-    other = "Powered by"
+    other = "পরিচালিত"
 [prev]
-    other = "Previous"
+    other = "আগের"
 [print]
-    other = "Print"
+    other = "প্রিন্ট"
 [protanopia]
-    other = "Protanopia"
+    other = "প্রোটানোপিয়া (বর্ণান্ধতা)"
 [published]
-    other = "Published"
+    other = "প্রকাশিত"
 [readingTime]
-    other = "Min read"
+    other = "মিনিটের কফি-ব্রেক"
 [recent]
-    other = "Recent Posts"
+    other = "সাম্প্রতিক পোস্ট"
 [redactionHistory]
-    other = "Redaction History"
+    other = "সম্পাদনার ইতিহাস"
 [redactionNotes]
-    other = "Some information might changes over time, we keep redaction up to date."
+    other = "কিছু তথ্য সময়ের সাথে বদলাতে পারে, আমরা সম্পাদনার ইতিহাস আপ-টু-ডেট রাখি।"
 [related]
-    other = "You might also like"
+    other = "এই সম্পর্কিত আরও কিছু এলোমেলো চিন্তা"
 [reset]
-    other = "Reset"
+    other = "রিসেট"
 [reviewedBy]
-    other = "Reviewed By"
+    other = "পর্যালোচনা করেছেন"
 [save]
-    other = "Save"
+    other = "সংরক্ষণ"
 [search]
-    other = "Search"
+    other = "বিশৃঙ্খলার মাঝে অনুসন্ধান"
 [seeAll]
-    other = "See all"
+    other = "সব দেখুন"
 [seeMore]
-    other = "Explore more topics"
+    other = "আরও গভীরে ডুব দিন"
 [section]
-    other = "Section"
+    other = "বিভাগ"
 [selectLang]
-    other = "Language Selections"
+    other = "ভাষা নির্বাচন করুন"
 [series]
-    other = "Series"
+    one = "সিরিজ"
+    other = "সিরিজ"
 [share]
-    other = "Share"
+    other = "বিশৃঙ্খলা ছড়িয়ে দিন"
 [shareOn]
-    other = "Share on"
+    other = "-এ শেয়ার করুন"
 [slide]
-    one = "slide"
-    other = "slides"
+    one = "স্লাইড"
+    other = "স্লাইড"
 [stage]
-    one = "Stage"
-    other = "Stages"
+    one = "পর্যায়"
+    other = "পর্যায়"
 [switchLangTo]
-    other = "Switch Language to"
+    other = "-তে ভাষা পরিবর্তন করুন"
 [TableOfContents]
-    other = "Table of Contents"
+    other = "এই লেখায় যা যা আছে"
 [tags]
-    one = "Tag"
-    other = "Tags"
+    one = "ট্যাগ"
+    other = "ট্যাগ"
 [toContent]
-    other = "Skip to Main Content"
+    other = "মূল লেখায় যান"
 [toTop]
-    other = "To Content Top"
+    other = "শীর্ষে ফিরে যান"
 [top-nav]
-    other = "Top"
+    other = "শীর্ষ"
 [tritanopia]
-    other = "Tritanopia"
+    other = "ট্রাইটানোপিয়া (বর্ণান্ধতা)"
