@@ -7,7 +7,7 @@ params:
     target: '/about'
 ---
 
-<strong class="section-title">একতুবেশী <i class="icon copyleft"></i> ২০২৫</strong>
+<strong class="section-title">একটুবেশী <i class="icon copyleft"></i> ২০২৫</strong>
 
 **দিবাকরের ক্যাফেইনযুক্ত বিশৃঙ্খলা ল্যাবরেটরি** • *২০২৫ সাল থেকে অযৌক্তিকতাকে প্রজ্ঞায় রূপান্তর*
 
