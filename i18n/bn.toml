@@ -1,0 +1,247 @@
+# Please feel free to contribute to additional translation.
+# Copy this file and rename it to your language code.
+# Then translate the values.
+[404PageNotFound]
+    other = "উপস, পেইজটি পাওয়া যায় নি"
+[404Alert]
+    other = "এই পেইজটিকে Redirected করা হয়েছে"
+[404ReturnHome]
+    other = "হোমপেজে ফিরে যান"
+[accessibility]
+    other = "সহায়তা"
+[accessTime]
+    other = "এই পেইজটি এক্সেস করা হয়েছে"
+[allPosts]
+    other = "সব পোস্ট"
+[appearance]
+    other = "দৃষ্টি"
+[articles]
+    one = "পোস্ট"
+    other = "পোস্ট"
+[author]
+    one = "লেখক"
+    other = "লেখক"
+[back]
+    other = "ফিরে যান"
+[baselineStretch]
+    other = "লাইন স্ট্রেচ"
+[bionRead]
+    other = "বিন রিড মোড"
+[breadcrumb]
+    other = "ব্রেডক্রাম"
+[buildTime]
+    other = "এই পেইজটি তৈরি করা হয়েছে"
+[bypass]
+    other = "বাইপাস"
+[categories]
+    one = "ক্যাটাগরি"
+    other = "ক্যাটাগরি"
+[close]
+    other = "বন্ধ"
+[coffeeStat]
+    other = "কফি স্ট্যাট"
+[coffeeCount]
+    other = "এই ওয়েবসাইটটি তৈরি করা হয়েছে"
+[coffeeCountPost]
+    other = "যদি না হয় তবে আরও বেশি।"
+[colophon]
+    other = "কলফোন"
+[colorPalette]
+    other = "রঙের প্যালেট"
+[colorSettings]
+    other = "রঙের সেটিংস"
+[comments]
+    other = "আলোচনা"
+[contrast]
+    other = "কন্ট্রাস্ট"
+[contrib]
+    other = "অবদান"
+[contribAskReader]
+    other = "এই পোস্টটি কি আপনার পছন্দ হয়েছে?"
+[contribAskReaderResponse]
+    other = "অসাধারণ!"
+[contribAskReaderToContribute]
+    one = "You can also support me by making the following contributions:"
+    other = "You can also support us by making the following contributions:"
+[contribCoffeeStat]
+    other = "আপনি কি জানেন যে"
+[contribCoffeeStatPost]
+    one =  "helped me write this article?"
+    other = "helped us write this article?"
+[copy]
+    other = "URL কপি করুন"
+[copying]
+    other = "কপি হচ্ছে..."
+[ctaComments]
+    other = "আলোচনায় যোগ করুন"
+[cup]
+    one = "কফি কাপ"
+    other = "কফি কাপ"
+[currentLang]
+    other = "বর্তমান ভাষা হল"
+[dark]
+    other = "ডার্ক"
+[darkMode]
+    other = "ডার্ক মোড"
+[date_long]
+    other = "জানুয়ারি ২, ২০০৬"
+[defaultColor]
+    other = "ডিফল্ট"
+[defaultContrast]
+    other = "ডিফল্ট"
+[deuteranopia]
+    other = "ডিউটারানোপিয়া"
+[discover]
+    other = "বিষয় খুঁজুন"
+[editedBy]
+    other = "সম্পাদিত হয়েছে"
+[email]
+    other = "ইমেইল"
+[featuredImg]
+    other = "বিশেষ ছবি"
+[fediverseBluesky]
+    other = "Reply with bluesky"
+[fediverseErr]
+    other = "কমেন্ট লোড করতে সমস্যা হচ্ছে"
+[fediverseIsLoading]
+    other = "ফেডিভার্সে কমেন্ট লোড করতে সমস্যা হচ্ছে"
+[fediverseReplies]
+    one = "রিপ্লাই"
+    other = "রিপ্লাইস"
+[fediverseReblogs]
+    one = "রিবলগ"
+    other = "রিবলগস"
+[fediverseFavourites]
+    one = "ফেবারিট"
+    other = "ফেবারিটস"
+[focusMode]
+    other = "ফোকাস মোড"
+[followRSS]
+    other = "RSS অনুসরণ করুন"
+[fontSize]
+    other = "ফন্ট সাইজ"
+[home]
+    other = "হোম"
+[in]
+    other = "এর মধ্যে"
+[inNewTab]
+    other = "নতুন ট্যাবে"
+[keepInTouch]
+    other = "আমার সাথে যোগাযোগ রাখুন!"
+[lessContrast]
+    other = "লো"
+[light]
+    other = "লাইট"
+[main]
+    other = "মেইন মেনু"
+[marginpar]
+    other = "অতিরিক্ত নোট"
+[menuControls]
+    other = "সহায়তা মেনু কন্ট্রোলস"
+[modified]
+    other = "সম্পাদিত হয়েছে"
+[monochrome]
+    other = "মনোক্রোম"
+[more]
+    other = "আরও মেনু"
+[moreContrast]
+    other = "হাই"
+[nav]
+    other = "নেভিগেশন"
+[networkGraph]
+    other = "কন্টেন্ট নেটওয়ার্ক গ্রাফ"
+[next]
+    other = "পরবর্তী"
+[noArticle]
+    other = "কোনো পোস্ট দেখানো হচ্ছে না।"
+[noArticlePost]
+    other = "লেখকের কফি শেষ হয়ে গেছে... ধৈর্য ধরুন, আরেকটা কফি ব্রু করে নিচ্ছি"
+[noComment]
+    other = "কোনো কমেন্ট নাই!"
+[noGiscus]
+    other = "Giscus এর জন্য জাভাস্ক্রিপ্ট এবং লোকাল স্টোরেজ সক্ষম করতে হবে।"
+[noScript]
+    other = "ওহো... জাভাস্ক্রিপ্ট নিষ্ক্রিয় করা!"
+[noLocalStorage]
+    other = "আপনার ব্রাউজারে লোকাল স্টোরেজ নাই। সেটিংস সংরক্ষণ করা যাবে না।"
+[note]
+    other = "নোট"
+[on]
+    other = "চালু"
+[OpenDyslexic]
+    other = "OpenDyslexic ফন্ট ব্যবহার করুন"
+[pages]
+    one = "পেইজ"
+    other = "পেইজ গুলো"
+[pagination]
+    other = "পেজেশন"
+[posts]
+    one = "পোস্ট"
+    other = "পোস্টগুলো"
+[postsBy]
+    other = "পোস্ট করেছে"
+[postsOn]
+    other = "Posts on"
+[poweredBy]
+    other = "Powered by"
+[prev]
+    other = "Previous"
+[print]
+    other = "Print"
+[protanopia]
+    other = "Protanopia"
+[published]
+    other = "Published"
+[readingTime]
+    other = "Min read"
+[recent]
+    other = "Recent Posts"
+[redactionHistory]
+    other = "Redaction History"
+[redactionNotes]
+    other = "Some information might changes over time, we keep redaction up to date."
+[related]
+    other = "You might also like"
+[reset]
+    other = "Reset"
+[reviewedBy]
+    other = "Reviewed By"
+[save]
+    other = "Save"
+[search]
+    other = "Search"
+[seeAll]
+    other = "See all"
+[seeMore]
+    other = "Explore more topics"
+[section]
+    other = "Section"
+[selectLang]
+    other = "Language Selections"
+[series]
+    other = "Series"
+[share]
+    other = "Share"
+[shareOn]
+    other = "Share on"
+[slide]
+    one = "slide"
+    other = "slides"
+[stage]
+    one = "Stage"
+    other = "Stages"
+[switchLangTo]
+    other = "Switch Language to"
+[TableOfContents]
+    other = "Table of Contents"
+[tags]
+    one = "Tag"
+    other = "Tags"
+[toContent]
+    other = "Skip to Main Content"
+[toTop]
+    other = "To Content Top"
+[top-nav]
+    other = "Top"
+[tritanopia]
+    other = "Tritanopia"
